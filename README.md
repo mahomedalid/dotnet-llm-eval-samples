@@ -1,3 +1,5 @@
+> Archive: Moving this to [Microsoft dotnet LLM Eval samples](https://github.com/microsoft/dotnet-llm-eval-samples/)
+> 
 # DotNet LLM Eval Samples
 
 ## Overview
